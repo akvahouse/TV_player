@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Univia Pro is licensed for personal use only; generate locally, see README.
+app/src/main/res/font/univia_pro_*.otf
